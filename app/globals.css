@@ -154,11 +154,11 @@ a {
 
 /* WRAPPER FOTO */
 .service-img-wrapper {
-  width: 120px;        /* ukuran seragam */
-  height: 120px;       /* ukuran seragam */
+  width: 120px;
+  height: 120px;
   margin: 0 auto 15px;
   border-radius: 12px;
-  overflow: hidden;     /* foto dipotong rapi */
+  overflow: hidden;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -168,7 +168,7 @@ a {
 .service-img {
   width: 100%;
   height: 100%;
-  object-fit: cover;     /* foto otomatis pas */
+  object-fit: cover;
   border-radius: 12px;
   transition: transform 0.4s ease;
 }
