@@ -32,9 +32,9 @@ export default function WorkSection() {
       <Container>
         <Row className="text-center mb-4">
           <Col>
-            <h2 className="fw-bold display-5 mb-2">What We Work</h2>
+            <h2 className="fw-bold display-5 mb-2">Our Creative Works</h2>
             <p className="text-muted fs-5">
-              Menghadirkan hasil visual berkualitas tinggi melalui fotografi outdoor, travel, dan pemandangan yang estetik dan profesional.
+              Menghadirkan konten visual berkualitas tinggi untuk mendukung brand, website, dan kebutuhan digital modern.
             </p>
           </Col>
         </Row>
